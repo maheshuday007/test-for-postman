@@ -1,0 +1,54 @@
+{
+  "info": {
+    "_postman_id": "27918d9d-3128-4f46-b89b-4c7e6e8940fb",
+    "name": "Photo",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "V1",
+      "item": [
+        {
+          "name": "Automation",
+          "item": [
+            {
+              "name": "New Request",
+              "id": "4b574347-6d71-44f5-a4c5-64e813c73211",
+              "request": {
+                "method": "GET",
+                "header": []
+              },
+              "response": []
+            }
+          ],
+          "id": "440bf8a7-697c-4545-b88f-0d59bd2edd0c"
+        },
+        {
+          "name": "Manual",
+          "item": [
+            {
+              "name": "New Request",
+              "id": "1522902d-7fd4-44f3-9d7e-2f68b22fd563",
+              "request": {
+                "method": "GET",
+                "header": []
+              },
+              "response": []
+            }
+          ],
+          "id": "e1cf1be8-6df4-4c14-bd6b-8be61fb7226f"
+        }
+      ],
+      "id": "22f61b5d-4e83-4126-9112-1044a4cf433f"
+    },
+    {
+      "name": "New Request",
+      "id": "ec693272-bf3a-4bc9-8061-1a30d32f1ff7",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}

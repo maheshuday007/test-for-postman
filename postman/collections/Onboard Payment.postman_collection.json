@@ -1,0 +1,44 @@
+{
+  "info": {
+    "_postman_id": "769321d9-924a-471c-b5dc-38a648cb15c5",
+    "name": "Onboard Payment",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "V2",
+      "item": [
+        {
+          "name": "Automation",
+          "item": [
+            {
+              "name": "searchPayments",
+              "id": "ca031193-07c4-4c0e-aa97-37a58df5a0eb",
+              "request": {
+                "method": "GET",
+                "header": []
+              },
+              "response": []
+            }
+          ],
+          "id": "14e365d4-6762-48c5-bbb3-3a30d1c49dd1"
+        },
+        {
+          "name": "Manual",
+          "item": [],
+          "id": "fe4aea3a-6fb0-4072-a5d7-b779f67cefc0"
+        },
+        {
+          "name": "searchPayment",
+          "id": "0ed10d15-832d-4ffd-9f96-3e0fff7accc6",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ],
+      "id": "d3dd67d5-bd79-4072-9b7f-cddad247d1e5"
+    }
+  ]
+}
